@@ -1,5 +1,7 @@
 # Association Rule Mining Algorithm
 
+For course assignment submission purposes
+
 ### generate_frequent_itemset
 Input:
 * list of transactions (which are lists of items)
